@@ -1,0 +1,28 @@
+[
+  {
+    "balance": 0,
+    "chainId": "0x61",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "name": "Dogocoin Token",
+    "possible_spam": false,
+    "show": false,
+    "symbol": "DOGE",
+    "thumbnail": null,
+    "token_address": "0x8b7453cfbee659f819d2e3cecb4f7099d21293cb"
+  },
+  {
+    "balance": 0,
+    "chainId": "0x38",
+    "decimals": 18,
+    "name": "INRx",
+    "symbol": "INRx",
+    "token_address": "0xcD6970d5211EfDF2516A4fc73163db7bA812B212",
+    "possible_spam": false,
+    "thumbnail": null,
+    "logo": "https://inrx.io/assets/256px_inrx.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "isQuote": true
+  }
+]
